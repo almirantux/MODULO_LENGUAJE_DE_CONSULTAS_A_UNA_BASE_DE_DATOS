@@ -1,0 +1,7 @@
+
+Reflexión respecto al tema de la sesión:  
+
+se crean vistas y se analiza necesidad o no de procedimientos almacenados
+
+
+
