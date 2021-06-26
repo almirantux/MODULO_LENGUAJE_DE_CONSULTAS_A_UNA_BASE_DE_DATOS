@@ -1,0 +1,5 @@
+
+Reflexión respecto al tema de la sesión:  
+
+se crean vistas 
+se verifica normalizacion de la base de datos
